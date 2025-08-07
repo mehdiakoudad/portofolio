@@ -80,8 +80,8 @@ This project analyzes the relationship between social media usage and its impact
 ## ✍️ Author
 
 **Mehdi Akoudad**  
-- [Kaggle](https://www.kaggle.com/mehdiakoudad)  
-- [LinkedIn](https://www.linkedin.com/in/mehdi-akoudadd)  
+- [Kaggle](https://www.kaggle.com/mehdiakoudadd)  
+- [LinkedIn](https://www.linkedin.com/in/mehdiakoudad/)  
 - [Medium](https://medium.com/@akoudadmehdi01)
 
 ---
