@@ -20,6 +20,14 @@ The analysis blends **SQL** for data extraction with **Python** for visualizatio
 
 ---
 
+##  Dive Deeper: Full Story on Medium 
+
+Explore the narrative behind the data in my full Medium article:
+
+[**Inside the Checkout: What a Year of Supermarket Transactions Really Tells Us**](https://medium.com/@akoudadmehdi01/inside-the-checkout-what-a-year-of-supermarket-transactions-really-tells-us-ec1dfb653bff)
+
+---
+
 ## 📊 Key Insights
 
 1. **Card transactions dominate** slightly over cash, and card users spend more per transaction.  
