@@ -106,4 +106,5 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 🙋 Author
 **Your Name**  
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mehdiakoudad/) • [Portfolio (https://github.com/mehdiakoudad/portofolio))
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mehdiakoudad/) 
+• [Portfolio((https://github.com/mehdiakoudad/portofolio))
