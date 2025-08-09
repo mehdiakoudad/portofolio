@@ -41,21 +41,16 @@ The analysis blends **SQL** for data extraction with **Python** for visualizatio
 ```
 supermarket-transaction-analysis-sql/
 │
-├── data/                             # Optional: Sample anonymized dataset or schema
-│   └── README.md                     # Dataset description & link
+├── data/ 
+│   ├── pos_operator_logs.csv
+│   ├── pos_transactions.csv
+│   └── data-04-00067.xml
 │
 ├── notebooks/
-│   ├── supermarket_transaction_analysis_storytelling_with_summary.ipynb  # Final version w/ Executive Summary
-│   └── supermarket_transaction_analysis_storytelling.ipynb                # Version w/ embedded stories
-│
-├── reports/
-│   ├── supermarket_transaction_analysis.pdf   # Business-friendly PDF (optional)
-│   └── visuals/                               # Exported charts/images
-│
-├── scripts/                                   # SQL queries or Python scripts if separated from notebook
+│   └── supermarket_transaction_analysis_storytelling_with_summary.ipynb
 │
 ├── README.md
-└── LICENSE                                    # (Optional) License file
+└── LICENSE
 ```
 
 ---
@@ -111,4 +106,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 🙋 Author
 **Your Name**  
-[LinkedIn](https://www.linkedin.com/) • [Portfolio](https://github.com/your-username)
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/mehdiakoudad/) • [Portfolio (https://github.com/mehdiakoudad/portofolio))
